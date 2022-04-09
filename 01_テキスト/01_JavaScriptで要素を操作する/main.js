@@ -41,3 +41,6 @@ elementPrepend.prepend(div2)
 // 要素を削除する - remove
 const elementRemove = document.getElementById("element-remove")
 elementRemove.remove()
+
+element.classLists.add("nice-element")
+//element.classList.remove("nice-element")
